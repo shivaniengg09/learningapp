@@ -1,0 +1,7 @@
+C:\tmp2\learningapp\WebApplication1\obj\Release\net8.0\PubTmp\Out\learningapp.exe
+C:\tmp2\learningapp\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\tmp2\learningapp\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\tmp2\learningapp\WebApplication1\obj\Release\net8.0\PubTmp\Out\learningapp.dll
+C:\tmp2\learningapp\WebApplication1\obj\Release\net8.0\PubTmp\Out\learningapp.deps.json
+C:\tmp2\learningapp\WebApplication1\obj\Release\net8.0\PubTmp\Out\learningapp.runtimeconfig.json
+C:\tmp2\learningapp\WebApplication1\obj\Release\net8.0\PubTmp\Out\learningapp.pdb
